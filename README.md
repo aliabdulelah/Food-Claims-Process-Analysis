@@ -6,7 +6,7 @@
 - [Project Overview](#project-Overview)
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
-- [ Data Cleaning / Preparation](#Data-Cleaning-/-Preparation)
+- [ Data Cleaning / Preparation](#Data-Cleaning--Preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Results/Findings](#Results-Findings)
 
@@ -29,7 +29,7 @@ Customer Claims: the primary dataset used for this analysis is the “food_claim
 
 
 
-### Data Cleaning / Preparation 
+### Data Cleaning - Preparation 
 
  In the initial data preparation phase, we performed the following tasks:
 

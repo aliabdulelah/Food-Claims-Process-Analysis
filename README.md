@@ -54,7 +54,7 @@ Customer Claims: the primary dataset used for this analysis is the “food_claim
 
 
 
-### Results/Findings
+### Results Findings
 The analysis results are summarized as follows:
 
 1- There are four locations for claims included in this data. The most common location listed is a RECIFE for Claims, with SAO LUIS being second although with half the number of locations. The locations are unbalanced, with most observations being either RECIFE or SAO LUIS. The team should focus on distributing their team employees in RECIFE as they are more common.
